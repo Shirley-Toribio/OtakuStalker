@@ -1,2 +1,22 @@
 <!DOCTYPE html>
-<* add your code here *>
+<html>
+    <head>
+        <title>Home</title>
+        <link href="https://fonts.googleapis.com/css?family=Kirang+Haerang" rel="stylesheet">
+    </head>
+    <body>
+        <div id="all">
+            <div id="title"><h1>Otaku Stalker</h1></div>
+            <div id="cool">
+                <div id="over"><img id="main"src="https://img.buzzfeed.com/buzzfeed-static/static/2015-04/20/15/campaign_images/webdr05/17-times-the-legend-of-korra-totally-hinted-at-ko-2-3825-1429559028-3_dblbig.jpg"></div>
+                <div id="nav">
+                    <div class="k">
+                    <p id="b1"><a href="">About</a></p> </div>
+                   <div class="k"> <p id="b2"><a href="">Search #</a></p> </div>
+                   <div class="k"><p id="b3"><a href="">Search URL</a></p></div>
+                  <div class="k">  <p id="b4"><a href="">Anime</a></p> </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
