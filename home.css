@@ -1,0 +1,114 @@
+body{
+    text-align:center;
+    background-color:#99B898;
+    font-family: 'Kirang Haerang', cursive;
+}
+#title{
+    height:10%;
+    display:flex;
+    justify-content:center;
+}
+h2{
+    /*color:#FF847C; */
+    color:#b17e95;
+}
+h3{
+   /* color:#FF847C;*/
+   color:#b17e95;
+
+}
+h1{
+    font-size:60px;
+    position:relative;
+    padding:0px;
+    margin:0px;
+    color:#E84A5F;
+}
+#nav{
+    display:flex;
+    justify-content:space-around;
+    height:100%;
+    width:80%;
+    background-color:black;
+    margin-top:15px;
+    margin-left:0px;
+  /*  padding:.5%; */
+    border-radius:10%;
+}
+#cool{
+    display:flex;
+    justify-content:center;
+    margin-top:0px;
+    padding-top:0px;
+
+}
+a{
+    text-decoration:none;
+    color:#FECEA8;
+}
+#over{
+    width:22%;
+    margin-right:0px;
+  /*  display:flex;
+    justify-content:flex-end; */
+}
+#mai{
+    height:10%;
+    width:10%;
+    }
+#main{
+    height:70%;
+    width:70%;
+    border-radius:50%;
+    padding-top:1%;
+    margin-right:0px;
+/*    position: relative;
+    left:35%;
+    top:6%;*/
+    }
+p{
+/*    position:absolute;
+    top:50%;
+    left:50%; */
+    height:100%;
+   /* border:1px solid red; */
+
+}
+#in{
+    display:flex;
+    justify-content:center;
+    margin:10%;
+    padding-top:0px;
+    margin-top:50px;
+    background-color:grey;
+    padding:1%;
+    border-radius:50%;
+}
+
+#all{
+    display:block;
+    height:20%;
+}
+p{
+    font-size:25px;
+    padding:0px;
+}
+a:hover{
+    background-color:#2A363B;
+    color:white;
+}
+#gh{
+    margin-left:1%;
+}
+#ana{
+    border-radius:50%;
+    font-size:10px;
+}
+#desc{
+}
+input{
+    border-radius:25%;
+    background-color: white;
+    border: 1px solid blue;
+    padding:3px;
+}
